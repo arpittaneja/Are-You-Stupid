@@ -1,9 +1,8 @@
-body{
-    /* height: 100vh; */
+body {
     display: flex;
     justify-content: center;
-    /* align-items: center; */
 }
-p{
+
+p {
     font-size: 50px;
 }
